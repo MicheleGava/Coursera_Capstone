@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone project notebook from Applied Data Science Capstone
+this repo contains a notebook required as submissione from Coursera course: Applied Data Science Capstone
